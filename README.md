@@ -16,7 +16,7 @@ This repository contains practical implementations and exercises for **BIT1123 O
 ---
 
 ## 📁 Repository Structure
-
+```text
 Java_tutorial/
 ├── README.md
 ├── myreport.pdf
@@ -28,7 +28,7 @@ Java_tutorial/
 ├── week7/
 ├── week8-9/
 └── week10/
-
+```
 ---
 
 ## 📚 Tutorial Summary (Weeks 1–10)
