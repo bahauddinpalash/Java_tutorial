@@ -63,5 +63,8 @@ Java_tutorial/
    ```bash
    javac Main.java
    java Main
-📝 Reflection Summary
-This repository reflects my learning journey in Object Oriented Programming with Java. Beyond mastering core OOP concepts like encapsulation, inheritance, and polymorphism, this assignment enhanced my practical skills in version control, project organization, and software documentation using Git and GitHub. A complete reflective report covering specific challenges, solutions, and future learning plans is available in
+   
+   
+## 📝 Reflection Summary
+
+This repository reflects my learning journey in Object Oriented Programming with Java. Beyond mastering core OOP concepts like encapsulation, inheritance, and polymorphism, this assignment enhanced my practical skills in version control, project organization, and software documentation using Git and GitHub. A complete reflective report covering specific challenges, solutions, and future learning plans is available in `myreport.pdf`.
