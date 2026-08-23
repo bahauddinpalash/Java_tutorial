@@ -33,17 +33,16 @@ Java_tutorial/
 
 ## 📚 Tutorial Summary (Weeks 1–10)
 
-| Folder | Topics Covered |
-| :--- | :--- |
-| **`week1`** | Introduction to Java setup, environment configuration, basic syntax, and standard output. |
-| **`week2`** | Variables, primitive data types, input handling, and arithmetic operators. |
-| **`week3-4`** | Control flow logic (`if-else`, `switch` statements) and iteration loops (`for`, `while`, `do-while`). |
-| **`week5`** | User-defined methods, variable scope, parameters, and array manipulations. |
-| **`week6`** | Core Object-Oriented Programming principles: class structures, object instantiation, and constructors. |
-| **`week7`** | Encapsulation, access modifiers, inheritance relationships, and method overriding.|
-| **`week8-9`** | Polymorphism, abstract classes, interface implementations, and robust exception handling. |
-| **`week10`** | Advanced topics: File I/O operations, Java Collections framework, and practical mini-projects. |
-
+| Week | Topic Covered | Key Concepts Implemented | Core Files |
+| :--- | :--- | :--- | :--- |
+| **Week 1** | Introduction & Environment Setup | Java setup, environment configuration, basic syntax, standard output | `week1/` |
+| **Week 2** | Variables & Data Types | Variables, primitive data types, input handling, arithmetic operators | `week2/` |
+| **Week 3-4** | Control Flow & Loops | Control flow logic (`if-else`, `switch`), iteration loops (`for`, `while`, `do-while`) | `week3-4/` |
+| **Week 5** | Methods & Arrays | User-defined methods, variable scope, parameters, array manipulations | `week5/` |
+| **Week 6** | OOP Fundamentals | Core OOP principles, class structures, object instantiation, constructors | `week6/` |
+| **Week 7** | Encapsulation & Inheritance | Access modifiers, inheritance relationships, method overriding | `week7/` |
+| **Week 8-9** | Abstraction & Exception Handling | Polymorphism, abstract classes, interface implementations, exception handling | `week8-9/` |
+| **Week 10** | Advanced Java Topics | File I/O operations, Java Collections framework, practical mini-projects | `week10/` |
 ---
 
 ## 🛠️ Technologies Used
