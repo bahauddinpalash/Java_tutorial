@@ -35,14 +35,14 @@ Java_tutorial/
 
 | Folder | Topics Covered |
 | :--- | :--- |
-| **`week1`** | Introduction to Java setup, environment configuration, basic syntax, and standard output.[cite: 1] |
-| **`week2`** | Variables, primitive data types, input handling, and arithmetic operators.[cite: 1] |
-| **`week3-4`** | Control flow logic (`if-else`, `switch` statements) and iteration loops (`for`, `while`, `do-while`).[cite: 1] |
-| **`week5`** | User-defined methods, variable scope, parameters, and array manipulations.[cite: 1] |
-| **`week6`** | Core Object-Oriented Programming principles: class structures, object instantiation, and constructors.[cite: 1] |
-| **`week7`** | Encapsulation, access modifiers, inheritance relationships, and method overriding.[cite: 1] |
-| **`week8-9`** | Polymorphism, abstract classes, interface implementations, and robust exception handling.[cite: 1] |
-| **`week10`** | Advanced topics: File I/O operations, Java Collections framework, and practical mini-projects.[cite: 1] |
+| **`week1`** | Introduction to Java setup, environment configuration, basic syntax, and standard output. |
+| **`week2`** | Variables, primitive data types, input handling, and arithmetic operators. |
+| **`week3-4`** | Control flow logic (`if-else`, `switch` statements) and iteration loops (`for`, `while`, `do-while`). |
+| **`week5`** | User-defined methods, variable scope, parameters, and array manipulations. |
+| **`week6`** | Core Object-Oriented Programming principles: class structures, object instantiation, and constructors. |
+| **`week7`** | Encapsulation, access modifiers, inheritance relationships, and method overriding.|
+| **`week8-9`** | Polymorphism, abstract classes, interface implementations, and robust exception handling. |
+| **`week10`** | Advanced topics: File I/O operations, Java Collections framework, and practical mini-projects. |
 
 ---
 
