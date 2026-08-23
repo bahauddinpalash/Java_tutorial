@@ -59,6 +59,9 @@ Java_tutorial/
    git clone [https://github.com/bahauddinpalash/Java_tutorial.git](https://github.com/bahauddinpalash/Java_tutorial.git)
    cd Java_tutorial
    ```
-Compile and execute a Java source file:Bashjavac Main.java
-java Main
-📝 Reflection SummaryThis repository reflects my learning journey in Object Oriented Programming with Java[cite: 1]. Beyond mastering core OOP concepts like encapsulation, inheritance, and polymorphism, this assignment enhanced my practical skills in version control, project organization, and software documentation using Git and GitHub[cite: 1]. A complete reflective report covering specific challenges, solutions, and future learning plans is available in myreport.pdf[cite: 1].
+3. **Compile and execute a Java source file:**
+   ```bash
+   javac Main.java
+   java Main
+📝 Reflection Summary
+This repository reflects my learning journey in Object Oriented Programming with Java. Beyond mastering core OOP concepts like encapsulation, inheritance, and polymorphism, this assignment enhanced my practical skills in version control, project organization, and software documentation using Git and GitHub. A complete reflective report covering specific challenges, solutions, and future learning plans is available in
